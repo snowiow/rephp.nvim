@@ -1,7 +1,7 @@
-# rephp.nvim - Read, Evaluate, Print PHP
+# rephp.nvim - Read and Evaluate PHP
 ![rephp](http://snow-dev.com/wp-content/uploads/2016/12/rephp.gif)
 ##Description
-rephp.nvim is a python3 plugin for neovim, which reads different regions of your code, evaluates it and echo the result. The idea is inspired by great REPLs like Clojures Cider. 
+rephp.nvim is a python3 plugin for neovim, which reads different regions of your code, evaluates it and echo (if there are any outputs). The idea is inspired by great REPLs like Clojures Cider. 
 This plugin tries to deliver a similar feeling, but in a far more basic fashion.  
 ###What is implemented so far  
 &#x2713; Evaluate current line  
